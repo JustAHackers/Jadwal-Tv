@@ -5,7 +5,7 @@
 import requests,bs4
 # import module yg dibutuhkan
 
-acaratv=["trans7","rcti","antv","indosiar","trans7","sctv","metrotv","gtv","mnctv","tvone","inewstv","tvri","nettv","rtv","kompastv"]
+acaratv=["trans7","rcti","antv","indosiar","transtv","sctv","metrotv","gtv","mnctv","tvone","inewstv","tvri","nettv","rtv","kompastv"]
 # list acara tv
 
 for i in range(len(acaratv)):
